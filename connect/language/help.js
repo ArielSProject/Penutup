@@ -1,9 +1,9 @@
 exports.help = (prefix, author, botname, owner) => {
 return `✘ *I N F O - B O T*
 
-⌕ #Nama Owner : *Ariel SP*
-⌕ #Nama Bot : *${global.botname}*
-⌕ #Nomor Owner : wa.me/${global.premium}
+⌕ Nama Owner : *Ariel SP*
+⌕ Nama Bot : *${global.botname}*
+⌕ Nomor Owner : wa.me/${global.premium}
 
 ✘ *G R O U P - M E N U*
 
